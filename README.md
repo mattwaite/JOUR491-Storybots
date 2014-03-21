@@ -20,7 +20,7 @@ This course is going to take your journalism education and combine it with some 
 
 To Do
 -----
-1. Evaluate some textbooks. Specifically [Matt Jocker's book](http://www.amazon.com/Analysis-Students-Literature-Quantitative-Humanities/dp/3319031635).
+1. Evaluate some textbooks. Specifically [Matt Jocker's book](http://www.amazon.com/Analysis-Students-Literature-Quantitative-Humanities/dp/3319031635) and the [Python NLTK book](http://www.nltk.org/book/).
 2. Evaluate language choice - R or Python? Gut says Python, but R is worthy challenger. Need to make a call.
 3. Develop the two story bot assignments as midterm and final. 
 4. Develop class meetings that get to the points where they can complete the midterm and final.
