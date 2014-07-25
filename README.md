@@ -1,20 +1,25 @@
-JOUR491-Storybots
-=================
+JOUR491 - An Introduction to Storybots
+=====================================
 
 On the morning of March 14, Ken Schwencke rolled out of bed, logged into the LA Times content management system and published a story about an earthquake that happened three minutes prior. 
 
-This is interesting only in the particulars: Schwencke didn't write a word of the story - no human did. The story was written by a bot. Specifically, a bot programmed by Schwencke to write a story about earthquakes minutes after they happen, so the LA Times can have something on it's website about it first, and faster than any human can do the job. All Schwencke had to do was check the story to see if the bot did it's job and hit publish.
+This is interesting only in the particulars: Schwencke didn't write a word of the story - no human did. The story was written by a bot. Specifically, a bot programmed by Schwencke to write a story about earthquakes minutes after they happen, so the LA Times can have something on its website about the quake first and faster than any human can do the job. All Schwencke had to do was check the story to see if the bot did its job and hit publish.
 
 Welcome to the dawning days of storybots: programs that write stories so humans don't have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, earthquakes. Some of them are extraordinarily simple -- basic programming knowledge is all that's required. Others are quite sophisticated -- they rely on more complex tools to arrive at a simple story.
 
-Journalists (including your professor) have written story bots that:
+Journalists (including your professor) have written other storybots that:
 
 * Summarize crime statistics for a neighborhood
 * Update readers on real estate trends for a neighborhood over the last month, six months and year.
 * Write a four paragraph story evaluating crime trends for every city in the US. 
-* (more to come when I find them) 
+* Summarize little league games
+* _More to come as I find them_
+
+One company said their bots are on track to write a billion stories this next year. That's billion with a B. That's a lot of stories.
 
 Even your phone does this. Have an iPhone? Swipe down for the Notification Center. Depending on how you have it configured, you'll get a couple of sentences telling you what the weather will be like today, how long it will take you to commute somewhere, and what your next appointment is on your calendar. 
+
+But where is all this bots-writing-stories stuff going? And how hard is it, really?
 
 This course is going to take your journalism education and combine it with some programming knowledge to produce storybots. We'll discuss the ethics, the practicality, the limits, the nature of what it means to be human and we'll make a few storybots of our own.
 
