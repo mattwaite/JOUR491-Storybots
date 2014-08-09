@@ -13,6 +13,7 @@ Journalists (including your professor) have written other storybots that:
 * Update readers on real estate trends for a neighborhood over the last month, six months and year.
 * Write a four paragraph story evaluating crime trends for every city in the US. 
 * Summarize little league games
+* [Automatically write U.S. corporate earnings stories for the AP](http://www.usatoday.com/story/money/business/2014/06/30/ap-automated-stories/11799077/)
 * _More to come as I find them_
 
 One company said their bots are on track to write a billion stories this next year. That's billion with a B. That's a lot of stories.
