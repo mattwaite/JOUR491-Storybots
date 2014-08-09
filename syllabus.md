@@ -258,11 +258,17 @@ Reaction paper: In no more than 500 words, describe what you see as the implicat
 
 **In class:**
 
+Intro to automated fetching from the internet.
+
 **Homework:**
+
+Your first scrape.
 
 ###Oct. 14, 2014###
 
 **In class:**
+
+More scraping
 
 **Homework:**
 
@@ -270,7 +276,11 @@ Reaction paper: In no more than 500 words, describe what you see as the implicat
 
 **In class:**
 
+Combining scraping with bots: Intro to Twitter Bots
+
 **Homework:**
+
+Start working on your twitter bot over break
 
 ###Oct. 21, 2014###
 
@@ -280,11 +290,17 @@ Reaction paper: In no more than 500 words, describe what you see as the implicat
 
 **In class:**
 
+More on Twitter bots: Good and bad.
+
 **Homework:**
+
+Finish twitter bot
 
 ###Oct. 28, 2014###
 
 **In class:**
+
+Present our Twitter bots
 
 **Homework:**
 
@@ -294,74 +310,71 @@ Reaction paper: In no more than 500 words, describe what you see as the implicat
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 4, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
-
-<<<<<<< HEAD
-**In class:**
-
-**Homework:**
-
-###DATE, 2014###
+###Nov. 6, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 11, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 13, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 18, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 20, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 25, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Nov. 27, 2014###
+
+Thanksgiving. No class.
+
+###Dec. 2, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Dec. 4, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Dec. 9, 2014###
 
 **In class:**
 
 **Homework:**
 
-###DATE, 2014###
+###Dec. 11, 2014###
 
 **In class:**
 
