@@ -81,7 +81,8 @@ Students with disabilities are encouraged to contact the instructor for a confid
 **Diversity:**
 
 The College of Journalism and Mass Communications values diversity, in the broadest sense of the word – gender, age, race, ethnicity, nationality, income, religion, education, geographic, physical and mental ability or disability, sexual orientation. We recognize that understanding and incorporating diversity in the curriculum enables us to prepare our students for careers as professional communicators in a global society. As communicators, we understand that journalism, advertising and other forms of strategic communication must reflect society in order to be effective and reliable. We fail as journalists if we are not accurate in our written, spoken and visual reports; including diverse voices and perspectives improves our accuracy and truthfulness. In advertising, we cannot succeed if we do not understand the value of or know how to create advertising that reflects a diverse society and, thus, appeals to broader audiences.
-##Class Schedule:##
+
+##Class Schedule:##
 
 A word of warning: This class is pretty fluid. I will move things up and back, depending on how well you’re getting things. If things change, I will update the syllabus on Blackboard and I will update the class blog.
 
