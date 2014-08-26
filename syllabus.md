@@ -34,10 +34,14 @@ This course is going to take your journalism education and combine it with some 
 
 Each Friday throughout the semester, I run something called Maker Hours. It’s an open learning time where anyone who wants to learn about some digital tool or technology can come in and I’ll help. It’s in Room 27 from 1-5. You’re welcome to come learn something new outside of class, or bring your class stuff with you to get questions answered. 
 
-**Texts:**
+**Required materials:**
 
-Assigned readings from the internet.
-
+* Assigned readings from the internet.
+* A GitHub account.
+* A laptop computer that you bring with you to class.
+* Administrative rights to install software.
+* An abundant sense of curiosity and no fear of failure.
+* A sense of humor. 
 
 **Grading:**
 
@@ -104,7 +108,11 @@ Introduction to Storybots
 
 **Homework:**
 
-Read: BotWeek
+Read: Selections from BotWeek:
+
+[How to break news while you sleep.](https://source.opennews.org/en-US/articles/how-break-news-while-you-sleep/)  
+[Bots with thought](https://source.opennews.org/en-US/articles/bots-with-thoughts/)  
+[Bot or be botted](https://source.opennews.org/en-US/articles/bot-or-be-botted/)
 
 ###Aug. 28, 2014###
 
