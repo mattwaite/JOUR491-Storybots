@@ -126,7 +126,7 @@ On the structure of data and journalism
 
 **Homework:**
 
-Read: Holovaty, ??
+Read: [Holovaty](http://www.holovaty.com/writing/fundamental-change/).
 
 ###Sept. 2, 2014###
 
@@ -140,7 +140,7 @@ Mad Libs, sentence structure and programming: Your first storybot
 
 **Homework:**
 
-Start Codecademy Python course. 
+Homework assignment TBA.
 
 ###Sept. 4, 2014###
 
