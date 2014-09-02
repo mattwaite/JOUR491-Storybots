@@ -140,7 +140,7 @@ Mad Libs, sentence structure and programming: Your first storybot
 
 **Homework:**
 
-Homework assignment TBA.
+Write a Python script that creates a variable called "noun" and "verb" and print a sentence to the screen. 
 
 ###Sept. 4, 2014###
 
