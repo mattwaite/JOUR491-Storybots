@@ -140,7 +140,7 @@ Mad Libs, sentence structure and programming: Your first storybot
 
 **Homework:**
 
-Write a Python script that creates variables "noun", "verb", "adjective" and "proper_name" and prints a sentence using all of them to the screen. Bring it to the next class to show. 
+Write a Python script that creates variables "noun", "verb", "adjective", "proper_name" and "quantity" and prints a sentence using all of them to the screen. Bring it to the next class to show. 
 
 ###Sept. 4, 2014###
 
