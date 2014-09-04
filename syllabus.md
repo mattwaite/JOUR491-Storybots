@@ -154,7 +154,11 @@ More Python, more Mad Libs
 
 **Homework:**
 
-Write a Python script that completes the assigned Mad Lib. Due Tuesday.
+Write a Python script that completes this Mad Lib: 
+
+Create a list of ten tuples. The tuple should have a name and a past tense verb. Iterate over the list of tuples and print the sentence "NAME was naughty, they VERBED today." One for each tuple in the list.
+
+Due Tuesday.
 
 ###Sept. 9, 2014###
 
