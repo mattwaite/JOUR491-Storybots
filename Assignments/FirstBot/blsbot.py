@@ -32,12 +32,15 @@ previousyear = blslist[-2]
 previousyearmonth = previousyear[yearlen-1]
 
 if currentmonth > previousmonth:
-    verb = "increased"
+    verb1 = "increased"
+    verb2 = "rising"
 elif currentmonth == previousmonth:
-    verb = "held steady"
+    verb1 = "held steady"
+    verb2 = "leveling off"
 else:
-    verb = "decreased"
+    verb1 = "decreased"
+    verb2 = "sliding"
     
 pctchange = ((float(currentmonth)-float(previousmonth))/float(previousmonth)*100)
 
-print verb, abs(pctchange)
+print "Unemployment %s %.1f percent since last month, the Bureau of Labor Statistics reported, with the rate now standing at %s percent." % (verb1, abs(pctchange), currentmonth) 
