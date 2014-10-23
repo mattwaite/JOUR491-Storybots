@@ -1,3 +1,13 @@
+"""
+
+DogBot, your missing dog Twitter bot for Lincoln, Neb. It parses out this page here: http://lincoln.ne.gov/city/health/animal/lost/lost.htm
+
+It will find new missing dogs and tweet about them. Because it cares.
+
+"""
+
+#First load libraries
+
 from bs4 import BeautifulSoup
 import urllib2, string, datetime, time, re
 from datetime import timedelta
