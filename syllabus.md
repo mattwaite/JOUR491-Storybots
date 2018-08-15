@@ -1,4 +1,4 @@
-#JOUR491 An Introduction to Storybots#
+# JOUR491 An Introduction to Storybots
 **Fall 2014**  
 **T/Th 2:30 p.m. - 3:45 p.m.**  
 **228 Andersen Hall**  
